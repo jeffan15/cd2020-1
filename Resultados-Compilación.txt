@@ -1,0 +1,9 @@
+﻿1>------ Operación Compilar iniciada: proyecto: practica de laboratorio, configuración: Debug Win32 ------
+1>practica de laboratorio.cpp
+1>C:\Users\jefft\newre\practica de laboratorio\practica de laboratorio\practica de laboratorio.cpp(10,23): warning C4018: '<': no coinciden signed/unsigned
+1>C:\Users\jefft\newre\practica de laboratorio\practica de laboratorio\practica de laboratorio.cpp(51,23): warning C4018: '<': no coinciden signed/unsigned
+1>C:\Users\jefft\newre\practica de laboratorio\practica de laboratorio\practica de laboratorio.cpp(57,30): warning C4018: '<': no coinciden signed/unsigned
+1>C:\Users\jefft\newre\practica de laboratorio\practica de laboratorio\practica de laboratorio.cpp(75,23): warning C4018: '<': no coinciden signed/unsigned
+1>practica de laboratorio.vcxproj -> C:\Users\jefft\newre\practica de laboratorio\Debug\practica de laboratorio.exe
+1>Compilación del proyecto "practica de laboratorio.vcxproj" terminada.
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
